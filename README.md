@@ -15,6 +15,6 @@ We are confirm the purchase and see the stock 2908 update to 5
 ![](screenshoots/confirmthepurchase.PNG)
 
 
-We are trying to buy 3 units from the product ID 3384 but not enigh units in the stock
+We are trying to buy 3 units from the product ID 3384 but not enogh units in the stock
 
 ![](screenshoots/insufficentquantity.PNG)
